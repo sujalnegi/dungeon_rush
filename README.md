@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎮 2D Dungeon Rush
+# 2D Dungeon Rush
 **A pixel-style action platformer where you explore dungeons, defeat enemies, fight bosses, and reach the final goal.**
 
 ---
